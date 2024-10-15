@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnishKatam
 - 👀 I’m interested in Tennis, Coding, Chess.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Videogame building and Debugging.
+- 💞️ I’m looking to collaborate on Projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a fast learner
 
