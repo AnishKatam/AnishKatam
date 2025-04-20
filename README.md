@@ -1,6 +1,6 @@
 # 🚷 About Me:
 - 🔝 Hi, I’m @AnishKatam
-- 🌱 Working on DandyHacks'24
+- 🌱 Working on DandyHacks'25
 - 💞 Tennis Athlete
 
 ## 🌗 Socials:
